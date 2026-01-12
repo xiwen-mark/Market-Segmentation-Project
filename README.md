@@ -1,4 +1,4 @@
 # Market-Segmentation-Project
-Using RFM Analysis and K-Means Clustering (with the Elbow and Silhouette Methods) to Segment Customers for Better Business Strategies.
+Using RFM Analysis and K-Means Clustering (with the Elbow and Silhouette Methods) to segment customers for better business strategies.
 
-![Slide 1](market_segmentation_presentation.pdf)
+[Read the manual (PDF)](market_segmentation_presentation.pdf)
